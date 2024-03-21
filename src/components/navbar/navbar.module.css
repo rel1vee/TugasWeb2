@@ -1,0 +1,7 @@
+.link {
+  @apply font-medium text-white hover:bg-emerald-100 hover:text-emerald-950 px-4 py-2 rounded;
+}
+
+.active {
+  @apply bg-emerald-100 text-emerald-950;
+}
